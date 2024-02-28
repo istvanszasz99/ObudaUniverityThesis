@@ -9,7 +9,7 @@ It's a 3D educational simulation, where the user can visit the campus of Óbuda 
 ![App Screenshot](Images/HighresScreenshot00004.png)
 ![App Screenshot](Images/HighresScreenshot00005.png)
 
-## Used Sotwares
+## Used Softwares
 - Unreal Engine 5
 - Quixel Bridge
 - Twinmotion
