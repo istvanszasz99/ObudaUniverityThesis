@@ -15,10 +15,10 @@ It's a 3D educational simulation, where the user can visit the campus of Óbuda 
 - Twinmotion
 
 ## Documentation
-Link will be published after the thesis is defended.
+[Documentation](https://drive.google.com/file/d/1jprYBPCE_UEePzzuCeSdE5cMqD11G9Rj/view?usp=sharing)
 
 ## Demo
-Link will be published after the thesis is defended.
+[Download](https://drive.google.com/file/d/1MiR-HNGEHPS5J8a9lY4cP3byh-nJMc8g/view?usp=sharing)
 
 ## Author
 - [@istvanszasz99](https://www.github.com/istvanszasz99)
